@@ -1,0 +1,6 @@
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+**/MNIST/
+**/DATA/
+**/__pycache__/
